@@ -1,9 +1,3 @@
-#---------------------------------------------------------------------------
-# Dockefile to build Docker Image of Apache WebServer running on Ubuntu
-#
-# Made by Denis Astahov ADV-IT  13-March-2019
-#---------------------------------------------------------------------------
-
 FROM ubuntu:20.04
 
 WORKDIR /home 
